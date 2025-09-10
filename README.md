@@ -36,7 +36,7 @@ Pada fitur ini program akan langsung berhenti apabila pelanggan tidak melakukan 
 
 <img width="692" height="448" alt="image" src="https://github.com/user-attachments/assets/78a815f8-caed-4644-a333-cd7f2bdc42f2" />
 
-Pada fitur ini admin dapat memperbarui bagian - bagian yang dan jika ada kolom yang tidak ingin diperbarui cuku tekan enter, admin atau karyawan dapat kembali ke menu utama dengan mengetikkan 0 di awal.
+Pada fitur ini admin dapat memperbarui bagian - bagian yang perlu dan jika ada kolom yang tidak ingin diperbarui cukup tekan enter, admin atau karyawan dapat kembali ke menu utama dengan mengetikkan 0 di awal.
 
 ### 5. Hapus Reservasi
 
