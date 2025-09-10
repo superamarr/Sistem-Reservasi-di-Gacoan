@@ -1,4 +1,4 @@
-# Sistem-Reservasi-di-Gacoan
+# Sistem Reservasi di Gacoan
 
 ## Deskripsi Singkat
 
